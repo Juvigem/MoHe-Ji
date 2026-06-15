@@ -1,0 +1,4 @@
+Fixed build.rs icon path.
+Windows EXE icon embedding now uses: assets/app_icon.ico
+Run `cargo clean` before rebuilding if Explorer still shows a cached old icon.
+Missing canonical icon files at fix time: []

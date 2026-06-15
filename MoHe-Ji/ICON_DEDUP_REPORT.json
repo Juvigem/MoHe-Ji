@@ -1,0 +1,20 @@
+{
+  "kept_icon_files": [
+    "assets/app_icon.ico",
+    "assets/app_icon.png"
+  ],
+  "removed_duplicate_files_count": 10,
+  "removed_duplicate_files": [
+    "app.ico",
+    "icon.ico",
+    "favicon.ico",
+    "assets/icon.ico",
+    "assets/MoHe-Ji.ico",
+    "assets/moheji.ico",
+    "resources/app_icon.ico",
+    "resources/icon.ico",
+    "icons/icon.ico",
+    "icons/app_icon.ico"
+  ],
+  "note": "Duplicate icon/logo files were removed. build.rs uses assets/app_icon.ico for Windows EXE embedding."
+}
