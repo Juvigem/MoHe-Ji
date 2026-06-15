@@ -459,15 +459,7 @@ SVG保存/読込、PNG出力を処理します。
 
 ## ライセンス
 
-必要に応じて、この項目にプロジェクトのライセンスを記載してください。
-
-例：
-
-```text
 MIT License
-```
-
-- Arrow keys: pan the canvas. When points are selected with Select, arrow keys move the selected point(s). Hold Shift for larger steps.
 
 ## Application Icon
 
