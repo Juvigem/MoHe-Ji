@@ -13,3 +13,10 @@ base64 = "0.22"
 [build-dependencies]
 winresource = "0.1"
 winres = "0.1"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = 'abort'
+strip = true
