@@ -1,0 +1,3 @@
+All project icon assets have been replaced with the uploaded icon.
+Windows EXE icon embedding is configured in build.rs using assets/app_assets/app_assets\app_icon.ico.
+Run `cargo clean` before rebuilding if Windows Explorer still shows a cached old icon.
